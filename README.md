@@ -1,4 +1,4 @@
-# STARTER-jpa02
+# jpa02-chrisstasiowski01
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
